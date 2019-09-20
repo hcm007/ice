@@ -8,7 +8,7 @@ import (
 
 	"github.com/pion/stun"
 	"github.com/pion/transport/vnet"
-	"github.com/pion/turn"
+	"github.com/hcm007/turn"
 )
 
 const (

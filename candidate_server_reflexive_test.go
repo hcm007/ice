@@ -6,7 +6,7 @@ import (
 
 	"github.com/pion/logging"
 	"github.com/pion/transport/test"
-	"github.com/pion/turn"
+	"github.com/hcm007/turn"
 )
 
 func TestServerReflexiveOnlyConnection(t *testing.T) {

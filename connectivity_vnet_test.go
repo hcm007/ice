@@ -9,7 +9,7 @@ import (
 
 	"github.com/pion/logging"
 	"github.com/pion/transport/vnet"
-	"github.com/pion/turn"
+	"github.com/hcm007/turn"
 	"github.com/stretchr/testify/assert"
 )
 
